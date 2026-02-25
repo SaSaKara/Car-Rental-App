@@ -1,0 +1,32 @@
+[
+    {
+        "model_name": "Renault Clio",
+        "plate": "34 ABC 456",
+        "daily_price": 700,
+        "status": "AVAILABLE"
+    },
+    {
+        "model_name": "Toyota Corolla",
+        "plate": "06 DEF 123",
+        "daily_price": 900,
+        "status": "RENTED"
+    },
+    {
+        "model_name": "Volkswagen Golf",
+        "plate": "35 GHI 789",
+        "daily_price": 1100,
+        "status": "AVAILABLE"
+    },
+    {
+        "model_name": "Toyota Yaris",
+        "plate": "16 JKL 247",
+        "daily_price": 850,
+        "status": "AVAILABLE"
+    },
+    {
+        "model_name": "Honda Civic",
+        "plate": "07 MNO 555",
+        "daily_price": 1200,
+        "status": "RENTED"
+    }
+]

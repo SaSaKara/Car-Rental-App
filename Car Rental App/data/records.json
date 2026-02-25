@@ -1,0 +1,13 @@
+[
+    "2026-02-10 10:12:33 | EVENT=VEHICLE_ADDED | model=\"Renault Clio\" | plate=\"34 ABC 456\" | price=700",
+    "2026-02-10 10:15:02 | EVENT=VEHICLE_ADDED | model=\"Toyota Corolla\" | plate=\"06 DEF 123\" | price=900",
+    "2026-02-11 09:02:11 | EVENT=VEHICLE_ADDED | model=\"Volkswagen Golf\" | plate=\"35 GHI 789\" | price=1100",
+    "2026-02-11 11:44:58 | EVENT=VEHICLE_RENTED | model=\"Toyota Corolla\" | plate=\"06 DEF 123\" | days=3 | fee=2700",
+    "2026-02-12 13:21:20 | EVENT=VEHICLE_ADDED | model=\"Fiat Egea\" | plate=\"16 JKL 246\" | price=800",
+    "2026-02-13 16:40:03 | EVENT=VEHICLE_ADDED | model=\"Honda Civic\" | plate=\"07 MNO 555\" | price=1200",
+    "2026-02-14 09:18:44 | EVENT=VEHICLE_RENTED | model=\"Honda Civic\" | plate=\"07 MNO 555\" | days=5 | fee=6000",
+    "2026-02-15 12:05:17 | EVENT=VEHICLE_RETURNED | model=\"Toyota Corolla\" | plate=\"06 DEF 123\"",
+    "2026-02-16 15:33:49 | EVENT=VEHICLE_RENTED | model=\"Toyota Corolla\" | plate=\"06 DEF 123\" | days=2 | fee=1800",
+    "2026-02-18 18:20:06 | EVENT=VEHICLE_UPDATED | old_model=\"Fiat Egea\" | old_plate=\"16 JKL 246\" | new_model=\"Fiat Egea Cross\" | new_plate=\"16 JKL 246\" | new_price=850",
+    "2026-02-25 15:00:10 | EVENT=VEHICLE_UPDATED | old_model=\"Fiat Egea\" | old_plate=\"16 JKL 246\" | new_model=\"Toyota Yaris\" | new_plate=\"16 JKL 247\" | new_price=850"
+]
